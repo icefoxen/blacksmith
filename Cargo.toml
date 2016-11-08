@@ -1,0 +1,13 @@
+[package]
+name = "blacksmith"
+version = "0.1.0"
+authors = ["Simon Heath <icefoxen@gmail.com>"]
+
+[dependencies]
+router = "0.4"
+staticdir = "0.3"
+mount = "0.2.1"
+persistent = "0.2.1"
+iron-test = "0.4.0"
+bodyparser = "0.4.1"
+#urlencoded = "0.2.1"
